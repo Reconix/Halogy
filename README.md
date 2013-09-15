@@ -9,6 +9,11 @@ Halogy
  
  Remember if you believe in this project and can contribute by any means of fixes
  or even just reporting a problem you may have please do. It helps keep it alive.
+ 
+ Oh and don't fret just yet, Jesse is still working on the new version.
+ 
+ Last update about this:
+ http://www.halogy.com/blog/2013/02/github-repo-now-offline
 
 
  =================================================================================
