@@ -16,4 +16,6 @@ Halogy
  http://www.halogy.com/blog/2013/02/github-repo-now-offline
 
 
- =================================================================================
+ ===============================================================================
+ 
+ Halogy has now moved on to ForgeIgniter - www.forgeigniter.com
